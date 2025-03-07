@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there Welcome to Pallavi's GitHub 👋
+Design Maverick & Pixel Perfectionist, Crafting Memorable Brand Experiences with Alchemic Graphic Magic and Learning Web Development. Transforming ideas into vibrant Visual Masterpieces.
 
-<!--
-**Pallavidhawan72/pallavidhawan72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on a "Art Collision Webiste"
 
-Here are some ideas to get you started:
+- ✍️ Languages: C#, JavaScript, HTML, CSS, Python, Django
+- Tools: GitHub, Visual Studio, Microsoft.AspNetCore
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m an experienced Graphic Designer and currently learning Web Development from Humber College.
+  
+- 👯 You can find me on [Github](https://github.com/Pallavidhawan72) , [Linkedin](https://www.linkedin.com/in/pallavi-dhawan-555244219/) , [StackOverflow](https://stackoverflow.com/users/29933727/pallavidhawan72) , [Discord Username](pallavidhawan72)
+
+-  😄 Pronouns: she/her
